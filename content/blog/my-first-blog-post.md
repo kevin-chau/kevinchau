@@ -5,3 +5,17 @@ title: My First Blog Post
 description: The beginning
 ---
 Hi guys, I'm starting my blog!
+
+\`\``
+
+\# This is some code
+
+int main()
+
+{
+
+\    return 0;
+
+}
+
+\`\``
