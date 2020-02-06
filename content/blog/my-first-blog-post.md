@@ -6,16 +6,16 @@ description: The beginning
 ---
 Hi guys, I'm starting my blog!
 
-\`\``
+```c
 
-\# This is some code
+# This is some code
 
 int main()
 
 {
 
-\    return 0;
+    return 0;
 
 }
 
-\`\``
+```
