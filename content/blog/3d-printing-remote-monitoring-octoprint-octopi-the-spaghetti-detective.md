@@ -1,7 +1,7 @@
 ---
 path: octopi-spaghettidetective
 date: 2020-02-06T22:01:28.927Z
-title: 'Remote Monitoring a 3D Printer: OctoPrint/OctoPi + The Spaghetti Detective'
+title: '3D Printer Remote Monitoring: OctoPrint/OctoPi + The Spaghetti Detective'
 description: A guide to watching your 3D prints anywhere in the world.
 ---
 Today I'm setting up [The Spaghetti Detective](https://www.thespaghettidetective.com/) to work with my Monoprice Maker Select Plus which I recently set up with OctoPi. This has been an absolute game changer -- it's allowed me to remote control my printer from any device with a web browser.
