@@ -20,7 +20,7 @@ camera_usb_options="-r 1280x960 -f 5 -y
 
 Now OctoPi by itself only works on your local network, so you'll need to be doing all of this from a computer that's connected to the same wifi network as your Raspberry Pi. You will not be able to monitor your prints when your out and about with your phone using cellular data, for instance.
 
-But this is where The Spaghetti Detective comes in. It's the successor to OctoPrint Anywhere, a popular OctoPrint plugin that you can find a lot of guides for setting up. However, at the time of this post, OctoPrint Anywhere was no long free, so I decided to give the Spaghetti Detective a chance despite being hesitant at first (there's not as much information about it, but I liked that it's made by the same person as OctoPrint Anywhere, and the github repo has more stars anyway).
+But this is where The Spaghetti Detective comes in. It's the successor to OctoPrint Anywhere, a popular OctoPrint plugin that you can find a lot of guides for setting up. However, at the time of this post, OctoPrint Anywhere was no longer free, so I decided to give the Spaghetti Detective a chance despite being hesitant at first (there's not as much information about it, but I liked that it's made by the same person as OctoPrint Anywhere, and the github repo has more stars anyway).
 
 I think the killer feature that it has over its predecessor is it's AI-enhanced failure detection. It promises to be able to catch failed prints -- which in my own experience results in a mess of plastic spaghetti on the print bed -- hence its name. Since I've only tested one print with it, I'll have to see how good this feature is.
 
