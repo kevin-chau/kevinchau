@@ -8,7 +8,7 @@ module.exports = {
       twitter: `kevin___chau`,
       instagram: `kevin___chau`,
       github: `kevin-chau`,
-      linkedin: `kevinchau321`
+      linkedin: `kevinchau321`,
     },
   },
   plugins: [
@@ -65,8 +65,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        // edit below
-        // trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-157987428-1`,
       },
     },
     {
