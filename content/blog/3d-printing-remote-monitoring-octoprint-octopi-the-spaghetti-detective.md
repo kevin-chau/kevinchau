@@ -18,7 +18,7 @@ The webcam part is really cool, and should be easy to set up too. I had some tro
 camera_usb_options="-r 1280x960 -f 5 -y
 ```
 
-Now OctoPi by itself only works on your local network, so you'll need to be doing all of this from a computer that's connected to the same wifi network as your Raspberry Pi. You will not be able to monitor your prints when your out and about with your phone using cellular data, for instance.
+Now OctoPi by itself only works on your local network, so you'll need to be doing all of this from a computer that's connected to the same wifi network as your Raspberry Pi. You will not be able to monitor your prints when you're out and about with your phone using cellular data, for instance.
 
 But this is where The Spaghetti Detective comes in. It's the successor to OctoPrint Anywhere, a popular OctoPrint plugin that you can find a lot of guides for setting up. However, at the time of this post, OctoPrint Anywhere was no longer free, so I decided to give the Spaghetti Detective a chance despite being hesitant at first (there's not as much information about it, but I liked that it's made by the same person as OctoPrint Anywhere, and the github repo has more stars anyway).
 
