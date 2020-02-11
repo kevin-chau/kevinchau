@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Kevin Chau`,
     author: `Kevin Chau`,
-    description: `A starter personal blog with styled components, dark mode, and Netlify CMS.`,
+    description: `Kevin Chau's Website`,
     siteUrl: `https://www.kevinchau.com/`,
     social: {
       twitter: `kevin___chau`,
@@ -65,7 +65,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-157987428-1",
+        trackingId: `UA-157987428-1`,
         head: true,
       },
     },
