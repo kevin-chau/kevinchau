@@ -177,4 +177,6 @@ For files under 10MB, over wifi is only not bad / more convenient than looking f
 # Another moral of this story.
 Basically all this extra configuration didn't do anything
 
+## Recycle module doesn't seem to add any recycling feature for macOS
+
 
