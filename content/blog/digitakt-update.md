@@ -5,6 +5,8 @@ title: Updating my Elektron Digitakt to OS 1.11
 description: Updating the Elektron Digitakt from OS 1.10A to OS 1.11
 ---
 
+![Digitakt](https://media.sweetwater.com/api/i/q-82__ha-41481dfaf4bd78f3__hmac-61b3838974963bc3ad78149db6b9de69418c1021/images/items/750/Digitakt-large.jpg)
+
 Hey everyone, this post is a follow-up to yesterday's post on updating my Digitone. I'm going to go through the same update process with my [Digitakt](https://www.elektron.se/products/digitakt/), but it should be a lot more straight forward now that I know what to do and because Elektron [Transfer](https://www.elektron.se/support/?connection=transfer#resources) actually supports sending SysEx to the Digitakt (but not the Digitone).
 
 Here is a list of improvements taken from Elektron's official [release notes](https://www.elektron.se/wp-content/uploads/2018/07/Digitakt_OS1.11_readme.html) for OS 1.11:
