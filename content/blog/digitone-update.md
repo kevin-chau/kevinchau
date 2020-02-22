@@ -1,7 +1,7 @@
 ---
 path: digitone-update
 date: 2020-02-21T14:00:00.000Z
-title: Updating my Electron Digitone to OS 1.21
+title: Updating my Elektron Digitone to OS 1.21
 description: Updating from OS 1.10A to OS 1.21, and a closer look at SysEx tools in the era of macOS
 ---
 ![digitone](https://media.sweetwater.com/api/i/q-82__ha-881632ee9fc14431__hmac-2d2a94fa1a40e745f631db12455dad50be90f42e/images/items/750/DigiTone-large.jpg)
@@ -40,7 +40,7 @@ Another google search for specifically the term [`sysex`](https://www.google.com
 It's currently at version 1.4 -- I don't know why I always have to mention the version number of everything but I just do. The download comes as a zip which contains the application, so I copied it over to my `Applications` folder. Super easy to install, you gotta love open source software, right?
 
 ## Sending the Digitone OS 1.21 SysEx update file via SysEx Librarian
-Well this about as manual as it gets when it comes to firmware updating your electronic music instruments. I'm going to preface this section by saying none of this is officially supported by Elektron and the following instructions could have the potential to totally brick your instrument if you don't follow them carefully. Proceed with caution and at your own risk.
+Well this about as manual as it gets when it comes to firmware updating your kic music instruments. I'm going to preface this section by saying none of this is officially supported by Elektron and the following instructions could have the potential to totally brick your instrument if you don't follow them carefully. Proceed with caution and at your own risk.
 
 There's an Elektronauts [post](https://www.elektronauts.com/t/how-do-i-update-digitone-os-on-a-mac-using-sysex-librarian-step-by-step-needed/107847/2) I found explaining how to use SysEx Librian to update the Digitone, so refer to that for more information. Here was my process:
 
